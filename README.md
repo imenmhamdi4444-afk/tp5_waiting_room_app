@@ -1,4 +1,4 @@
-# TP4 — Real-Time Waiting Room
+# TP5 — Real-Time Waiting Room
 
 The waiting room uses Flutter, Provider, and Supabase. Queue changes are stored in
 Supabase and streamed to connected app instances.
